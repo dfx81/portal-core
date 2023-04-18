@@ -1,0 +1,22 @@
+{
+  "name": "portal-core",
+  "version": "0.0.1",
+  "description": "Backend for Practicum Portal project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfx81/portal-core.git"
+  },
+  "author": "dfx81",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfx81/portal-core/issues"
+  },
+  "homepage": "https://github.com/dfx81/portal-core#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
